@@ -1,5 +1,6 @@
 .venv/
 __pycache__/
-*.csv
+matches.csv
+deliveries.csv
 *.db
 .env
